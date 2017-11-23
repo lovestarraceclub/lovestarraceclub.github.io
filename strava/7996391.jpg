@@ -2,8 +2,15 @@
 <div class='container error-container'>
 <div class='system-page error-body row'>
 <div class='description col-md-6 col-md-offset-6'>
-<h1>The page you're looking for does not exist.</h1>
-<p>Please make sure you have entered the correct URL or go back to <a href='http://strava.com'>Strava.com</a> to keep exploring. Visit the <a href='https://strava.zendesk.com/tickets/new'>Strava Support</a> site for further assistance.</p>
+<h1>Sorry, this one stays red.</h1>
+<p>The page you’re looking for doesn’t exist, but you’re not at a dead end. Here are a few options:</p>
+<ul>
+<li>Be sure you have the right url and try again</li>
+<li>Sign up or log in at <a href='https://www.strava.com'>strava.com</a></li>
+<li>See what the community’s been up to at <a href='https://blog.strava.com'>Strava Stories</a></li>
+<li>Search for a particular <a href='https://www.strava.com/activities/search'>activity</a> or <a href='https://www.strava.com/clubs/search'>club</a></li>
+<li>Get a little help from <a href='https://support.strava.com'>Strava Support</a></li>
+</ul>
 </div>
 </div>
 </div>
